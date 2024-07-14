@@ -1,0 +1,6 @@
+[pr_description]
+generate_ai_title = true
+
+[github_app]
+handle_pr_actions = ['opened', 'reopened', 'ready_for_review', 'synchronize']
+handle_push_trigger = true
